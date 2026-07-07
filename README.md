@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clyde</h1>
 <h3 align="center">A curious problem-solver</h3>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Python, SQL, Cloud**
 
 - 📫 How to reach me **clydechoi@gmail.com**
 
